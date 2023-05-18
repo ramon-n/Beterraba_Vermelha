@@ -1,21 +1,18 @@
 ## Sobre Nós
 
-### Bem-vindo à PSI Soluções
+### Bem-vindo Beterraba Vermelha
 
-PSI Soluções é uma empresa dedicada à inovação e à oferta de soluções para consultórios psicológicos. Nosso objetivo é ajudar profissionais da área a otimizar suas práticas, proporcionando um ambiente eficiente e eficaz para o cuidado de seus pacientes.
+Empresa Beterraba vermelha 
 
-Entendemos as complexidades e os desafios enfrentados pelos consultórios psicológicos no mundo atual. A demanda por serviços de saúde mental está em constante crescimento, e é crucial que os profissionais estejam equipados com as ferramentas certas para fornecer tratamento de qualidade aos seus pacientes.
+Nossa empresa é uma loja online de produtos orgânicos, que tem como foco fornecer uma ampla variedade de frutas, verduras e legumes veganos para os nossos clientes. Trabalhamos com produtores locais e pequenos agricultores para garantir que os alimentos sejam cultivados de forma sustentável, sem o uso de agrotóxicos ou pesticidas, o que garante alimentos mais saudáveis e saborosos.
 
-A PSI Soluções surge como resposta a essa necessidade. Nossa equipe multidisciplinar de especialistas em tecnologia e  psicologia colaborou para criar um sistema abrangente e personalizável, projetado especificamente para atender às demandas dos consultórios psicológicos modernos.
+Temos um catálogo com diversos produtos orgânicos, incluindo frutas, verduras e legumes frescos, além de grãos, cereais e outros alimentos veganos, todos disponíveis para compra online através do nosso site ou aplicativo.
 
-Nossa plataforma oferece uma ampla gama de recursos e funcionalidades, adaptados às necessidades específicas dos psicólogos. Desde a gestão de agendamentos e prontuários eletrônicos até a teleconsulta e a análise de dados, a PSI Soluções se esforça para simplificar e aprimorar todos os aspectos do trabalho clínico.
+Oferecemos entregas em domicílio em várias regiões, com entregas rápidas e agendadas para que nossos clientes possam receber seus produtos frescos no conforto de suas casas.
 
-Além disso, estamos comprometidos com a segurança e a privacidade dos dados de nossos clientes. Implementamos os mais altos padrões de segurança cibernética e conformidade com as regulamentações de proteção de dados para garantir a confidencialidade e a integridade das informações dos pacientes.
+Além disso, nossa empresa tem um compromisso com a sustentabilidade e o meio ambiente, e trabalhamos para minimizar o impacto ambiental da nossa operação. Isso inclui o uso de embalagens ecológicas e a adoção de práticas sustentáveis em nossas operações logísticas.
 
-Na PSI Soluções, acreditamos que a tecnologia pode ser uma aliada poderosa para os profissionais de saúde mental. Estamos empenhados em fornecer uma plataforma inovadora que agilize processos, promova a colaboração entre profissionais e ofereça uma experiência de atendimento excepcional aos pacientes.
-
-Estamos entusiasmados em embarcar nesta jornada ao seu lado, ajudando você a impulsionar sua prática e a alcançar resultados 
-significativos no cuidado com a saúde mental. Junte-se a nós na PSI Soluções e descubra uma nova maneira de administrar e expandir seu consultório psicológico.
+Nossa missão é fornecer alimentos orgânicos e veganos de alta qualidade para nossos clientes, apoiar pequenos produtores locais e promover a saúde e o bem-estar.
 
 ## Índice/Sumário
 
@@ -33,13 +30,10 @@ significativos no cuidado com a saúde mental. Junte-se a nós na PSI Soluções
 
 ## Autores
 
- - **Aline Pereira Rocha** **RA:62122973**
- - **Arthur Prudêncio** **RA:622121317**
- - **Bruno Henrique Garcia** **RA:622121963**
- - **Bruno Marcelino Eustaquio de Assis** **RA:62122524**
- - **Celso Teófilo** **RA62120047**
- - **Lucas Silva** **RA:62122111**
- - **Mateus da Costa** **RA:62122131**
- - **Mateus da Costa** **RA:62122131**
- - **Samuel Lopes** **RA:622121812**
- - **Valdeno de Oliveira Santos** **RA:62122235**
+ - **Ramon Pereira Do Nascimento** **RA:62122517**
+ - **Gabriel Lopes** **RA:62110103**
+ - **Daniel Aron** **RA:62111610**
+ - **Miguel Angel** **RA:**
+ - **Marcos Estevão** ****
+ - **Crystian Marques Ferreira França** **RA:**
+
