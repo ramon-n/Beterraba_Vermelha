@@ -23,6 +23,8 @@ Nossa missão é fornecer alimentos orgânicos e veganos de alta qualidade para 
 * [Autores](#Autores)
 
 ## Etapas do Projeto
+Tipagem figma nosso projeto 
+https://www.figma.com/file/4km9w3sLmQp8NtyMr8pdnK/Untitled-(Copy)?type=design&t=8pb1C40pYTxSSgul-0
 
 
 ## Tecnologias Usadas
