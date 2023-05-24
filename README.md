@@ -92,9 +92,61 @@ Link: https://padlet.com/ramompn/meu-padlet-sublime-iizc8t72678351p6
 
 
 
+## Backlog do produto
+
+1. Alta prioridade:
+- Como cliente, quero poder criar uma conta para compras e que também possa gerenciar minhas informações pessoais.
+- Como cliente, quero poder navegar no catálogo de produtos e ver informações detalhadas sobre cada item.
+- Como cliente, quero poder adicionar produtos ao carrinho de compras e atualizar a quantidade.
+- Como cliente, quero poder pesquisar e filtrar produtos por categoria, preço e outros critérios.
+- Como cliente, quero poder pagar pelos produtos com segurança e com diferentes métodos de pagamento.
+
+2. Prioridade média:
+- Como cliente, desejo receber notificações sobre o status do meu pedido e entrega.
+- Como cliente, quero poder avaliar e deixar comentários sobre os produtos adquiridos.
+- Como cliente, quero poder compartilhar produtos ou recomendações através das redes sociais.
+
+3. Baixa prioridade:
+- Como cliente, quero ter acesso a páginas informativas sobre a empresa, sua missão e práticas sustentáveis.
+
+Sprint Backlog 
+
+Sprint 1:
+
+- Com alta prioridade:
+    - Configure o sistema de registro e autenticação do usuário.
+    - Implemente a navegação básica no catálogo de produtos.
+    - Desenvolva funcionalidade para adicionar produtos ao carrinho de compras.
+    - Configure uma infraestrutura de pagamento segura.
+
+Sprint 2:
+
+- Com alta prioridade:
+    - Implemente a funcionalidade de pesquisa e filtro de produtos.
+    - Crie uma página de detalhes do produto.
+- Prioridade média:
+    - Configure o envio de notificações de status do pedido.
+    - Desenvolva uma função de revisão e feedback do produto.
+
+Sprint 3:
+
+- Prioridade média:
+    - Integre a funcionalidade de compartilhamento de mídia social.
+- Baixa prioridade:
+    - Configurar páginas de informações da empresa.
+- Com alta prioridade:
+    - Realizar testes de desempenho e otimização do sistema.
+    - Refinar a interface do usuário e melhore a experiência de compra.
+
+
+
 
 
 ## Tecnologias Usadas
+Figma
+Pedlat
+Word
+
 
 
 ## Autores
