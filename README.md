@@ -85,6 +85,13 @@ D. Confiabilidade e disponibilidade do sistema.
 
 
 
+## User History do desenvolvimento 
+
+Link: https://padlet.com/ramompn/meu-padlet-sublime-iizc8t72678351p6
+
+
+
+
 
 ## Tecnologias Usadas
 
