@@ -31,6 +31,20 @@ Scrum Master: Gabriel lopes
 Gabriel Lopes vai ser responsavel por garantir que a equipe de desenvolvimento do aplicativo Beterra Vermelha esteja aderindo aos princípios e práticas do Scrum. Ele atua como facilitador, ajudando a remover obstáculos, promovendo a colaboração e protegendo a equipe de interrupções externas é facilitar as reunioes com sua equipe de desenvolvimento tais como daily scrum, reunões de planejamento Sprint.
 Gabriel foi escolido para ser o Scrum Master pois ele representa um profissional com experiencia na aplicação desse conceito, desta forma ele irá orientar todos os profissionais participantes deste projeto. 
 
+Product Owner: Marcos Estevão 
+Marcos Estevão sera responsavel  responsável por representar os interesses dos stakeholders e do cliente.Ele trabalha em estreita colaboração com a equipe de desenvolvimento para definir e priorizar os requisitos do produto.
+Marcos tambem vai ser responsavel por manter o backlog do produto atualizado, garantindo que os itens mais valiosos sejam priorizados e estejam prontos para serem trabalhados pela equipe.
+
+Equipe de desenvolvimento:
+Daniel Aron
+Miguel angel
+Ramon Nascimento
+Crystian Marques
+A nossa equipe de desenvolvimento consiste em profissionais responsáveis por criar o aplicativo. Eles são especialistas em diferentes áreas, como desenvolvedores, designers, testadores, entre outros, e colaboram para entregar um incremento de trabalho no final de cada sprint.
+Nossa equipe tem como dever se organizar e cumprir os objetivos definidos pelo Product Owner. Desenvolver o projeto para cada item do backlog do produto,  selecionar as histórias de usuário para a sprint e garantir que o incremento esteja concluído até o final da sprint.
+
+
+
 
 ## Tecnologias Usadas
 
