@@ -45,6 +45,46 @@ Nossa equipe tem como dever se organizar e cumprir os objetivos definidos pelo P
 
 
 
+## Requisitos do produto 
+
+
+A. Um catálogo de produtos orgânicos e veganos, incluindo frutas, verduras, legumes, grãos, cereais e outros alimentos.
+B. Pesquise e filtre as funções para navegar facilmente e encontrar produtos específicos.
+C. Informações detalhadas sobre cada produto, incluindo descrição, preço, origem e certificações ecológicas.
+D. Opções para adicionar produtos ao carrinho de compras e atualizar o carrinho.
+Isso é. Possibilidade de criar uma lista de favoritos ou uma lista de desejos.
+F. Função de pagamento seguro e múltiplas opções de pagamento (cartão de crédito, PayPal, etc.).
+G. Integração com serviços de entrega para calcular as opções de envio e entrega.
+H. Recurso de rastreamento de pedidos para que os clientes acompanhem o status de suas entregas.
+I. Páginas informativas sobre a empresa, sua missão, valores e práticas sustentáveis.
+
+2 - Requisitos do usuário:
+A. Registo de utilizadores para criar contas e gerir dados pessoais.
+B. Recursos de autenticação segura para proteger os dados do usuário.
+C. Opção de login social para facilitar o login do usuário.
+D. Capacidade de avaliar e deixar comentários sobre os produtos adquiridos.
+Isso é. Capacidade de compartilhar produtos ou recomendações via mídia social.
+F. A capacidade de receber notificações ou newsletters sobre ofertas, novos produtos ou eventos.
+
+3 - Requisitos de entrega:
+A. Integração com serviços de entrega para calcular as opções de envio e entrega.
+B. Possibilidade de escolher datas e horários de entrega preferidos.
+C. Rastreamento de pedidos em tempo real e notificações de status de entrega.
+D. Opção de adicionar instruções especiais de entrega (exemplo: deixar no portão, entregar no vizinho).
+
+4 - Requisitos de sustentabilidade:
+A. Utilização de embalagens ecológicas e biodegradáveis ​​para o transporte dos produtos.
+B. Informações sobre as práticas sustentáveis ​​adotadas pela empresa.
+c. Opções de doação ou programas de recompensa para apoiar práticas sustentáveis.
+
+5 - Requisitos de desempenho:
+A. Carregamento rápido do site ou aplicativo.
+B. Capacidade de suportar um grande número de usuários e solicitações simultaneamente.
+C. Eficiência na execução das operações de pagamento.
+D. Confiabilidade e disponibilidade do sistema.
+
+
+
 
 ## Tecnologias Usadas
 
