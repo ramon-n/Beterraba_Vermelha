@@ -35,6 +35,10 @@ Product Owner: Marcos Estevão
 Marcos Estevão sera responsavel  responsável por representar os interesses dos stakeholders e do cliente.Ele trabalha em estreita colaboração com a equipe de desenvolvimento para definir e priorizar os requisitos do produto.
 Marcos tambem vai ser responsavel por manter o backlog do produto atualizado, garantindo que os itens mais valiosos sejam priorizados e estejam prontos para serem trabalhados pela equipe.
 
+stakeholder:Crystian Marques 
+Crystian Marques vai ter um papel muito importante no desenvolvimento do projeto tais como fornecer requisitos e expectativas, tomar decisões e fornecer direcionamento, fornecer recursos financeiros e suporte, participar de revisões e aprovações, testar e fornecer feedback, e aceitar e adotar o produto final.
+Crystian vai ser essenciais para o sucesso do projeto, garantindo que suas necessidades sejam atendidas e que o produto final seja bem-sucedido. 
+
 Equipe de desenvolvimento:
 Daniel Aron
 Miguel angel
