@@ -43,7 +43,7 @@ Equipe de desenvolvimento:
 Daniel Aron
 Miguel angel
 Ramon Nascimento
-Crystian Marques
+
 
 A nossa equipe de desenvolvimento consiste em profissionais responsáveis por criar o aplicativo. Eles são especialistas em diferentes áreas, como desenvolvedores, designers, testadores, entre outros, e colaboram para entregar um incremento de trabalho no final de cada sprint.
 Nossa equipe tem como dever se organizar e cumprir os objetivos definidos pelo Product Owner. Desenvolver o projeto para cada item do backlog do produto,  selecionar as histórias de usuário para a sprint e garantir que o incremento esteja concluído até o final da sprint.
