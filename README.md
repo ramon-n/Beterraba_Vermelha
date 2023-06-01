@@ -50,6 +50,44 @@ Nossa equipe tem como dever se organizar e cumprir os objetivos definidos pelo P
 
 
 
+
+## Levantamento De Requisitos 
+
+O Beterraba Vermelha vai usar o levantamento de requisitos por meio de entrevistas onde os analistas de sistemas coletam informações diretamente dos stakeholders, por meio de perguntas e discussões, para entender suas necessidades, expectativas e requisitos para um projeto ou sistema em desenvolvimento.
+
+Essa tecnica ajudam a obter insights valiosos, identificar funcionalidades desejadas, restrições e preferências dos usuários finais. O objetivo é obter uma compreensão clara dos requisitos do sistema para garantir que ele atenda às necessidades dos usuários de forma eficaz.
+
+
+segue abaixo um exemplo de levantamento de requisitos usando a entrevista na empresa Beterra Vermelha 
+
+Entrevistador: Obrigado por nos receber na Beterraba Vermelha. Gostaríamos de entender melhor os requisitos da sua empresa para o desenvolvimento de um sistema online para a loja de produtos orgânicos. Podemos começar discutindo os principais recursos e funcionalidades que você gostaria de ver nesse sistema?
+
+Representante da Beterraba Vermelha: Claro! Para começar, é essencial que o sistema permita que nossos clientes naveguem facilmente pelo catálogo de produtos orgânicos e veganos disponíveis em nossa loja online. Eles devem poder visualizar informações detalhadas sobre cada produto, como descrição, preço, origem e disponibilidade.
+
+Entrevistador: Compreendido. Além disso, existem recursos específicos que você gostaria de ter para melhorar a experiência do usuário ao fazer compras online?
+
+Representante da Beterraba Vermelha: Sim, seria ótimo se o sistema permitisse que os clientes criassem perfis pessoais, onde pudessem salvar suas preferências de produtos, histórico de compras e lista de desejos. Também seria importante oferecer opções de pesquisa avançada, como filtrar por tipo de produto, certificações orgânicas e faixa de preços.
+
+Entrevistador: Entendi. E quanto às opções de pagamento e entrega? Quais são as suas necessidades nessa área?
+
+Representante da Beterraba Vermelha: Nós gostaríamos de oferecer aos nossos clientes diferentes métodos de pagamento, como cartões de crédito, PayPal e pagamento na entrega. Além disso, precisamos que o sistema integre com um serviço de entrega confiável para oferecer opções de entrega em domicílio em várias regiões.
+
+Entrevistador: Perfeito. E em relação à gestão de estoque e pedidos, quais são os requisitos que vocês têm em mente?
+
+Representante da Beterraba Vermelha: É importante que o sistema mantenha um registro atualizado do estoque disponível para cada produto. Quando um cliente faz um pedido, o sistema deve registrar o pedido e ajustar automaticamente o estoque correspondente. Também seria útil receber notificações quando um produto estiver com estoque baixo para que possamos reabastecer.
+
+Entrevistador: Entendi. Por fim, você gostaria de incluir algum recurso adicional no sistema, como um blog com dicas de alimentação saudável ou um programa de fidelidade para os clientes?
+
+Representante da Beterraba Vermelha: Ambas as ideias são interessantes! Um blog seria uma ótima maneira de fornecer conteúdo útil aos nossos clientes. Quanto ao programa de fidelidade, poderíamos oferecer pontos ou descontos especiais para incentivar a fidelidade dos clientes.
+
+Entrevistador: Muito obrigado por compartilhar essas informações. Isso nos dá uma base sólida para começar a trabalhar no desenvolvimento do sistema online para a Beterraba Vermelha. Faremos o possível para incorporar todas essas funcionalidades e requisitos. Se surgirem mais detalhes ou necessidades específicas, estaremos disponíveis para discussões adicionais.
+
+
+
+
+
+
+
 ## Requisitos do produto 
 
 
