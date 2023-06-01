@@ -138,9 +138,7 @@ Sprint 3:
     - Integre a funcionalidade de compartilhamento de mídia social.
 - Baixa prioridade:
     - Configurar páginas de informações da empresa.
-- Com alta prioridade:
-    - Realizar testes de desempenho e otimização do sistema.
-    - Refinar a interface do usuário e melhore a experiência de compra.
+
 
 
 
