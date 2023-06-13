@@ -137,7 +137,7 @@ Sprint Backlog
 
 Sprint 1:
 
-- Com alta prioridade:
+- Com Prioridade Muito alta :
     - Configure o sistema de registro e autenticação do usuário.
     - Implemente a navegação básica no catálogo de produtos.
     - Desenvolva funcionalidade para adicionar produtos ao carrinho de compras.
@@ -145,7 +145,7 @@ Sprint 1:
 
 Sprint 2:
 
-- Com alta prioridade:
+- Com prioridade alta :
     - Implemente a funcionalidade de pesquisa e filtro de produtos.
     - Crie uma página de detalhes do produto.
 - Prioridade média:
@@ -176,7 +176,7 @@ Word
  - **Ramon Pereira Do Nascimento** **RA:62122517**
  - **Gabriel Lopes** **RA:62110103**
  - **Daniel Aron** **RA:62111610**
- - **Miguel Angel** **RA:**
- - **Marcos Estevão** ****
- - **Crystian Marques Ferreira França** **RA:**
+ - **Miguel Angel** **RA:622123155**
+ - **Marcos Estevão** **RA: **
+ - **Crystian Marques Ferreira França** **RA:622123408**
 
