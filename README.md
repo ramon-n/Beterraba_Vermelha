@@ -130,7 +130,8 @@ D. Confiabilidade e disponibilidade do sistema.
 
 ## Backlog do produto /  User History
 
-![Backlog do Produto - User history](https://github.com/ramon-n/Beterraba_Vermelha/assets/88009771/d9159f00-b3fd-4537-8e16-46b592e5db10)
+![Backlog do Produto - User history](https://github.com/ramon-n/Beterraba_Vermelha/assets/88009771/17007e88-763f-4b4e-a887-db59439a942f)
+
 
 
 Sprint Backlog 
