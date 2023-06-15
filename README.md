@@ -174,18 +174,18 @@ O padrão MVC ajudaria a separar as responsabilidades e promover a manutenção 
 
 ## Modelo MVC (Model-View-Controller) empresa "Beterraba Vermelha":
 
-Modelo (Model):
+* Modelo (Model):
 O modelo representa os dados e a lógica de negócios da empresa "Beterraba Vermelha".
 Ele seria responsável por gerenciar as informações sobre os produtos orgânicos, incluindo frutas, verduras, legumes, grãos, cereais e outros alimentos veganos.
 O modelo também lidaria com a interação com produtores locais, pequenos agricultores e os processos de cultivo sustentável.
 
-Visão (View):
+* Visão (View):
 
 A visão seria responsável por apresentar as informações e interações da empresa "Beterraba Vermelha" para os clientes.
 Ela exibiria o catálogo de produtos orgânicos, permitindo que os clientes visualizem as opções disponíveis para compra.
 A visão também mostraria detalhes sobre as entregas em domicílio, regiões atendidas e opções de agendamento.
 
-Controlador (Controller):
+* Controlador (Controller):
 
 O controlador atuaria como um intermediário entre o modelo e a visão.
 Ele receberia as interações dos clientes, como solicitações de compra de produtos orgânicos e agendamento de entregas.
@@ -200,6 +200,9 @@ A visão envia essas interações para o controlador.
 O controlador processa as interações, obtendo os dados necessários do modelo.
 O controlador atualiza o modelo com as informações da interação e realiza as ações necessárias (como verificação de disponibilidade de produtos, agendamento de entrega, etc.).
 O controlador atualiza a visão com as informações atualizadas do modelo.
+
+
+![MVC](https://github.com/ramon-n/Beterraba_Vermelha/assets/88009771/89708090-2797-4712-bdf5-55024a2111d2)
 
 
 
