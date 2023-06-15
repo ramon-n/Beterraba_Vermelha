@@ -161,6 +161,45 @@ Sprint 3:
     - Configurar páginas de informações da empresa.
 
 
+## Padrão de Projeto MVC
+
+
+Com base no escopo do projeto, levantamento de requisitos e requisitos do produto no projeto da loja online orgânica Beterraba Vermelha, o padrão de projeto GOF (Gang of Four) que melhor se adequa ao desenvolvimento deste serviço é o “MVC” (Model-View-Controller ) padrão de projeto.
+O padrão MVC é amplamente utilizado para desenvolvimento de aplicativos da Web e é particularmente adequado para projetos que envolvem interações complexas entre o usuário, a interface do usuário e os dados. Permite uma clara separação de interesses e promove modularidade, escalabilidade e reutilização de código.
+Nesse contexto, o padrão MVC pode ser utilizado da seguinte forma:
+Modelo: O modelo representaria a camada responsável pela lógica de negócios e manipulação de dados. Isso incluiria lógica relacionada a produtos, estoque, pedidos, usuários, autenticação etc. O modelo seria responsável por gerenciar operações relacionadas a catálogo de produtos, estoque, processamento de pedidos, autenticação de usuários etc.
+View: Uma view seria responsável por tratar a apresentação dos dados para o usuário. Isso incluiria a exibição de produtos, detalhes do produto, carrinho de compras, informações de entrega etc. A visão também poderia incluir páginas de informações sobre a empresa, sua missão, valores e práticas sustentáveis.
+Controller: Um controller atuaria como um intermediário entre o model e a view. Ele receberia as solicitações do usuário, lidaria com as ações correspondentes e atualizaria o modelo e a visualização conforme necessário. Isso incluiria processamento de pesquisas, filtragem de produtos, gerenciamento de carrinho de compras, processamento de pagamentos, integração com serviços de entrega, etc.
+O padrão MVC ajudaria a separar as responsabilidades e promover a manutenção do código, facilitando a implementação de novos recursos e modificações futuras. Além disso, o uso desse padrão permitiria que diferentes partes do sistema (modelo, visão e controlador) fossem desenvolvidas de forma independente, o que facilitaria o trabalho em equipe.
+
+## Modelo MVC (Model-View-Controller) empresa "Beterraba Vermelha":
+
+Modelo (Model):
+O modelo representa os dados e a lógica de negócios da empresa "Beterraba Vermelha".
+Ele seria responsável por gerenciar as informações sobre os produtos orgânicos, incluindo frutas, verduras, legumes, grãos, cereais e outros alimentos veganos.
+O modelo também lidaria com a interação com produtores locais, pequenos agricultores e os processos de cultivo sustentável.
+
+Visão (View):
+
+A visão seria responsável por apresentar as informações e interações da empresa "Beterraba Vermelha" para os clientes.
+Ela exibiria o catálogo de produtos orgânicos, permitindo que os clientes visualizem as opções disponíveis para compra.
+A visão também mostraria detalhes sobre as entregas em domicílio, regiões atendidas e opções de agendamento.
+
+Controlador (Controller):
+
+O controlador atuaria como um intermediário entre o modelo e a visão.
+Ele receberia as interações dos clientes, como solicitações de compra de produtos orgânicos e agendamento de entregas.
+O controlador processaria essas solicitações, interagindo com o modelo para obter os dados necessários e atualizar o estado do sistema.
+Ele também atualizaria a visão com as informações atualizadas, para que os clientes recebam feedback em tempo real sobre suas ações.
+
+
+Dessa forma, o fluxo básico do padrão MVC para a empresa "Beterraba Vermelha" seria o seguinte:
+
+O cliente interage com a visão, selecionando produtos, adicionando ao carrinho e fornecendo informações para a entrega.
+A visão envia essas interações para o controlador.
+O controlador processa as interações, obtendo os dados necessários do modelo.
+O controlador atualiza o modelo com as informações da interação e realiza as ações necessárias (como verificação de disponibilidade de produtos, agendamento de entrega, etc.).
+O controlador atualiza a visão com as informações atualizadas do modelo.
 
 
 
