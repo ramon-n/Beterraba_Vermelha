@@ -211,6 +211,8 @@ O controlador atualiza a visão com as informações atualizadas do modelo.
 Figma
 Pedlat
 Word
+Asta UML
+Canva
 
 
 
