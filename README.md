@@ -222,6 +222,6 @@ Canva
  - **Gabriel Lopes** **RA:62110103**
  - **Daniel Aron** **RA:62111610**
  - **Miguel Angel** **RA:622123155**
- - **Marcos Estevão** **RA: **
+ - **Marcos Estevão** **RA:62110602 **
  - **Crystian Marques Ferreira França** **RA:622123408**
 
