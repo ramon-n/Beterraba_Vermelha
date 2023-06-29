@@ -205,6 +205,10 @@ O controlador atualiza a visão com as informações atualizadas do modelo.
 ![MVC](https://github.com/ramon-n/Beterraba_Vermelha/assets/88009771/89708090-2797-4712-bdf5-55024a2111d2)
 
 
+## Link video de apresentação 
+https://www.youtube.com/watch?v=q4uDr8iuNpE
+
+
 
 
 ## Tecnologias Usadas
